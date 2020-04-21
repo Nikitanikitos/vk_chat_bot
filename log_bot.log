@@ -1,0 +1,1488 @@
+09-04-2020 15:55:48 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 86, in on_event
+    raise TypeError
+TypeError
+09-04-2020 15:55:49 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 15:59:34 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 15:59:36 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 15:59:37 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 15:59:42 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 15:59:47 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 15:59:47 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): email@email.ru
+09-04-2020 15:59:48 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту email@email.ru выслано приглашение, будем ждать вас!'
+09-04-2020 16:00:08 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:00:09 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 16:00:10 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 16:00:27 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:00:45 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): да
+09-04-2020 16:01:02 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 16:01:07 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:01:49 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 16:02:05 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 16:02:08 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:02:41 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): да
+09-04-2020 16:02:54 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 16:02:57 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:07:50 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:07:51 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): привет
+09-04-2020 16:10:00 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:13:44 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): привет
+09-04-2020 16:14:13 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 16:14:14 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 16:14:15 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:14:16 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): нет
+09-04-2020 16:14:17 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Чтобы зарегистрироваться введите свое имя. Оно будет написано на бейджике'
+09-04-2020 16:16:44 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:16:45 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): никита
+09-04-2020 16:16:46 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 16:17:15 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:17:25 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:18:14 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): email@email.ru
+09-04-2020 16:18:58 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, никита! На почту email@email.ru выслано приглашение, будем ждать вас!'
+09-04-2020 16:19:06 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:19:29 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 16:19:49 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 16:19:59 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:20:25 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): использовать
+09-04-2020 16:20:50 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 16:21:00 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:57:37 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:57:39 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): привет
+09-04-2020 16:57:39 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 16:57:42 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:57:44 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 16:57:44 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 16:57:48 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:57:52 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): example@mail.ru
+09-04-2020 16:57:52 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту example@mail.ru выслано приглашение, будем ждать вас!'
+09-04-2020 16:57:56 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:57:57 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 16:57:58 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 16:58:01 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): да
+09-04-2020 16:58:01 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 16:58:48 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:58:49 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): ку
+09-04-2020 16:58:49 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 16:58:53 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 16:58:53 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 16:58:59 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 16:59:01 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): другое
+09-04-2020 16:59:01 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Чтобы зарегистрироваться введите свое имя. Оно будет написано на бейджике'
+09-04-2020 16:59:24 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:00:08 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): никита
+09-04-2020 17:00:14 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 17:00:24 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:00:55 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:00:56 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): ку
+09-04-2020 17:00:57 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:01:01 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:01:02 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): email@email.ru
+09-04-2020 17:01:02 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, никита! На почту email@email.ru выслано приглашение, будем ждать вас!'
+09-04-2020 17:01:39 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:01:41 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:01:41 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 17:01:44 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:01:48 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): да
+09-04-2020 17:01:49 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 17:01:50 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:01:51 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): да
+09-04-2020 17:01:51 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 17:01:55 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:01:56 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): использовать
+09-04-2020 17:01:57 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 17:03:28 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:03:43 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:03:56 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:03:56 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:05:52 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:06:21 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:06:25 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:06:25 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:06:25 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 64, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 108, in continue_scenario
+    state.step_name = steps[step['next_step']]
+  File "<string>", line 2, in __set__
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 77, in cut_traceback
+    reraise(exc_type, exc, last_pony_tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 464, in validate
+    'Value type for attribute %s must be %s. Got: %r' % (converter.attr, unicode.__name__, type(val)))
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 108, in throw
+    raise exc  # Set "pony.options.CUT_TRACEBACK = False" to see full traceback
+TypeError: Value type for attribute UserState.step_name must be str. Got: <class 'dict'>
+09-04-2020 17:06:31 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:06:34 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 64, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 108, in continue_scenario
+    state.step_name = steps[step['next_step']]
+  File "<string>", line 2, in __set__
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 77, in cut_traceback
+    reraise(exc_type, exc, last_pony_tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 464, in validate
+    'Value type for attribute %s must be %s. Got: %r' % (converter.attr, unicode.__name__, type(val)))
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 108, in throw
+    raise exc  # Set "pony.options.CUT_TRACEBACK = False" to see full traceback
+TypeError: Value type for attribute UserState.step_name must be str. Got: <class 'dict'>
+09-04-2020 17:06:47 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:06:51 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 64, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 108, in continue_scenario
+    state.step_name = steps[step['next_step']]
+  File "<string>", line 2, in __set__
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 77, in cut_traceback
+    reraise(exc_type, exc, last_pony_tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 464, in validate
+    'Value type for attribute %s must be %s. Got: %r' % (converter.attr, unicode.__name__, type(val)))
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 108, in throw
+    raise exc  # Set "pony.options.CUT_TRACEBACK = False" to see full traceback
+TypeError: Value type for attribute UserState.step_name must be str. Got: <class 'dict'>
+09-04-2020 17:07:37 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:07:38 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 64, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 108, in continue_scenario
+    state.step_name = steps[step['next_step']]
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 2300, in __set__
+    new_val = attr.validate(new_val, obj, from_db=False)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 2534, in validate
+    val = Attribute.validate(attr, val, obj, entity, from_db)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 2205, in validate
+    val = converter.validate(val, obj)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 464, in validate
+    'Value type for attribute %s must be %s. Got: %r' % (converter.attr, unicode.__name__, type(val)))
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+TypeError: Value type for attribute UserState.step_name must be str. Got: <class 'dict'>
+09-04-2020 17:07:45 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:07:46 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): хелло
+09-04-2020 17:07:47 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:07:49 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 64, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 108, in continue_scenario
+    state.step_name = steps[step['next_step']]
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 2300, in __set__
+    new_val = attr.validate(new_val, obj, from_db=False)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 2534, in validate
+    val = Attribute.validate(attr, val, obj, entity, from_db)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 2205, in validate
+    val = converter.validate(val, obj)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 464, in validate
+    'Value type for attribute %s must be %s. Got: %r' % (converter.attr, unicode.__name__, type(val)))
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 106, in throw
+    raise exc
+TypeError: Value type for attribute UserState.step_name must be str. Got: <class 'dict'>
+09-04-2020 17:08:03 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:08:04 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 66, in on_event
+    for intent in settings.INTENTS:
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 108, in continue_scenario
+    state.step_name = steps[step['next_step']]
+  File "<string>", line 2, in __set__
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 77, in cut_traceback
+    reraise(exc_type, exc, last_pony_tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 95, in reraise
+    try: raise exc.with_traceback(tb)
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/dbapiprovider.py", line 464, in validate
+    'Value type for attribute %s must be %s. Got: %r' % (converter.attr, unicode.__name__, type(val)))
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/utils/utils.py", line 108, in throw
+    raise exc  # Set "pony.options.CUT_TRACEBACK = False" to see full traceback
+TypeError: Value type for attribute UserState.step_name must be str. Got: <class 'dict'>
+09-04-2020 17:08:58 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): example@exapl.ru
+09-04-2020 17:09:17 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту example@exapl.ru выслано приглашение, будем ждать вас!'
+09-04-2020 17:09:21 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:09:26 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:09:39 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 17:09:43 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:09:44 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): использовать
+09-04-2020 17:09:44 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 17:09:50 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:12:15 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:16:12 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:16:15 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:16:15 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:16:19 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:16:22 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): ex@ex.ru
+09-04-2020 17:16:22 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту ex@ex.ru выслано приглашение, будем ждать вас!'
+09-04-2020 17:17:15 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:17:21 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:17:26 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:17:27 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): ex@e.ru
+09-04-2020 17:17:27 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 17:17:32 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:17:35 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:17:35 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 17:17:38 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:17:39 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): использовать
+09-04-2020 17:17:39 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 17:17:43 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 64, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 113, in continue_scenario
+    self.send_data(state=state, text_to_send=next_step['text'].format(**state.context))
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 135, in send_data
+    self.send_ticket(state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 122, in send_ticket
+    handler = getattr(handlers, state.step_name['image'])
+TypeError: string indices must be integers
+09-04-2020 17:18:48 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:22:52 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 40, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 84, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:22:54 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): step@sacsa.ru
+09-04-2020 17:22:54 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту step@sacsa.ru выслано приглашение, будем ждать вас!'
+09-04-2020 17:31:16 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:31:17 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): ау
+09-04-2020 17:31:18 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 17:31:20 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:31:21 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 17:31:23 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:31:25 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): использовать
+09-04-2020 17:31:25 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 17:31:40 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:31:52 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:33:39 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:33:48 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:33:50 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): ае
+09-04-2020 17:33:51 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:33:55 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:38:05 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:38:49 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:43:19 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:43:20 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): self.api.photos.
+09-04-2020 17:43:21 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:48:44 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:49:14 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:50:59 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:51:02 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): step@sacsa.ru
+09-04-2020 17:51:02 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'photo-193408079_457239019'
+09-04-2020 17:51:02 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту step@sacsa.ru выслано приглашение, будем ждать вас!'
+09-04-2020 17:53:46 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:53:47 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 17:53:48 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 17:53:52 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:53:53 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): да
+09-04-2020 17:53:54 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Я пока не умею обрабатывать такие вопросы. У меня ты можешь узнать когда и где пройдет конференция'
+09-04-2020 17:53:57 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): использовать
+09-04-2020 17:53:58 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 17:54:04 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:54:05 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 65, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 111, in continue_scenario
+    self.send_data(state=state, text_to_send=next_step['text'].format(**state.context))
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 141, in send_data
+    self.send_ticket(image=ticket, step=step)
+TypeError: send_ticket() got an unexpected keyword argument 'image'
+09-04-2020 17:54:09 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:54:10 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_NEW...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 65, in on_event
+    self.continue_scenario(text, state)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 111, in continue_scenario
+    self.send_data(state=state, text_to_send=next_step['text'].format(**state.context))
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 141, in send_data
+    self.send_ticket(image=ticket, step=step)
+TypeError: send_ticket() got an unexpected keyword argument 'image'
+09-04-2020 17:54:48 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:55:21 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 17:55:23 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): step@sacsa.rustep@sacsa.ru
+09-04-2020 17:55:23 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 17:55:40 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:37:48 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): ку
+09-04-2020 19:37:49 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 19:37:52 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:40:12 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:43:05 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 19:43:05 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 19:43:09 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:46:18 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:46:22 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): example@example.com
+09-04-2020 19:46:23 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'photo-193408079_457239025'
+09-04-2020 19:46:23 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту example@example.com выслано приглашение, будем ждать вас!'
+09-04-2020 19:47:54 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:47:56 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистр
+09-04-2020 19:47:57 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 19:47:59 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:48:01 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): использовать
+09-04-2020 19:48:01 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 19:48:04 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:48:10 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:48:12 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): example@example.com
+09-04-2020 19:48:13 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение ''
+09-04-2020 19:48:13 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, Кодо Куси! На почту example@example.com выслано приглашение, будем ждать вас!'
+09-04-2020 19:48:47 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:48:51 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): регистрируй меня
+09-04-2020 19:48:52 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Использовать ваше имя Вконтакте или выбрать другое?'
+09-04-2020 19:48:55 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:49:00 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:49:02 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): другое
+09-04-2020 19:49:02 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Чтобы зарегистрироваться введите свое имя. Оно будет написано на бейджике'
+09-04-2020 19:49:05 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): никита
+09-04-2020 19:49:05 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Добавьте свой E-mail.  На него мы пришем письмо с подтверждением регистрации'
+09-04-2020 19:49:07 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:49:10 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): exa
+09-04-2020 19:49:11 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'E-mail содержит некорректые символы. Пример E-mail: example@example.com'
+09-04-2020 19:49:16 - ERROR:
+	Ошибка типа: TypeError
+	Кажется, я не умею обрабатывать запрос VkBotEventType.MESSAGE_TYPING_STATE...
+Traceback (most recent call last):
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 41, in run
+    self.on_event(event)
+  File "<string>", line 2, in on_event
+  File "/home/nikita/environments/python_base_env/lib/python3.7/site-packages/pony/orm/core.py", line 528, in new_func
+    result = func(*args, **kwargs)
+  File "/home/nikita/PycharmProjects/python_base/chatbot/bot.py", line 85, in on_event
+    raise TypeError
+TypeError
+09-04-2020 19:49:19 - INFO:
+	Пришлое новое сообщение от пользователя Кодо Куси(id(377158397)): example@example.com
+09-04-2020 19:49:19 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение ''
+09-04-2020 19:49:19 - INFO:
+	Пользователю Кодо Куси(id(377158397)) отправлено сообщение 'Спасибо за регистрацию, никита! На почту example@example.com выслано приглашение, будем ждать вас!'
